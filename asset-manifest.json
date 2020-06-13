@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/RistoranteconFusion/static/css/main.bc2a2813.chunk.css",
-    "main.js": "/RistoranteconFusion/static/js/main.524d2046.chunk.js",
-    "main.js.map": "/RistoranteconFusion/static/js/main.524d2046.chunk.js.map",
-    "runtime-main.js": "/RistoranteconFusion/static/js/runtime-main.3347d58d.js",
-    "runtime-main.js.map": "/RistoranteconFusion/static/js/runtime-main.3347d58d.js.map",
-    "static/css/2.ee780f76.chunk.css": "/RistoranteconFusion/static/css/2.ee780f76.chunk.css",
-    "static/js/2.5056ffe1.chunk.js": "/RistoranteconFusion/static/js/2.5056ffe1.chunk.js",
-    "static/js/2.5056ffe1.chunk.js.map": "/RistoranteconFusion/static/js/2.5056ffe1.chunk.js.map",
-    "index.html": "/RistoranteconFusion/index.html",
-    "precache-manifest.b1572be3bcbf5d1a0ee3c976ebbbe7f9.js": "/RistoranteconFusion/precache-manifest.b1572be3bcbf5d1a0ee3c976ebbbe7f9.js",
-    "service-worker.js": "/RistoranteconFusion/service-worker.js",
-    "static/css/2.ee780f76.chunk.css.map": "/RistoranteconFusion/static/css/2.ee780f76.chunk.css.map",
-    "static/css/main.bc2a2813.chunk.css.map": "/RistoranteconFusion/static/css/main.bc2a2813.chunk.css.map",
-    "static/js/2.5056ffe1.chunk.js.LICENSE.txt": "/RistoranteconFusion/static/js/2.5056ffe1.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/RistoranteconFusion/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/react-project/static/css/main.bc2a2813.chunk.css",
+    "main.js": "/react-project/static/js/main.7c04f57e.chunk.js",
+    "main.js.map": "/react-project/static/js/main.7c04f57e.chunk.js.map",
+    "runtime-main.js": "/react-project/static/js/runtime-main.4068f46c.js",
+    "runtime-main.js.map": "/react-project/static/js/runtime-main.4068f46c.js.map",
+    "static/css/2.abb5859f.chunk.css": "/react-project/static/css/2.abb5859f.chunk.css",
+    "static/js/2.5056ffe1.chunk.js": "/react-project/static/js/2.5056ffe1.chunk.js",
+    "static/js/2.5056ffe1.chunk.js.map": "/react-project/static/js/2.5056ffe1.chunk.js.map",
+    "index.html": "/react-project/index.html",
+    "precache-manifest.54a20d3684cb1dd8f34aafe70e6ab4dc.js": "/react-project/precache-manifest.54a20d3684cb1dd8f34aafe70e6ab4dc.js",
+    "service-worker.js": "/react-project/service-worker.js",
+    "static/css/2.abb5859f.chunk.css.map": "/react-project/static/css/2.abb5859f.chunk.css.map",
+    "static/css/main.bc2a2813.chunk.css.map": "/react-project/static/css/main.bc2a2813.chunk.css.map",
+    "static/js/2.5056ffe1.chunk.js.LICENSE.txt": "/react-project/static/js/2.5056ffe1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-project/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3347d58d.js",
-    "static/css/2.ee780f76.chunk.css",
+    "static/js/runtime-main.4068f46c.js",
+    "static/css/2.abb5859f.chunk.css",
     "static/js/2.5056ffe1.chunk.js",
     "static/css/main.bc2a2813.chunk.css",
-    "static/js/main.524d2046.chunk.js"
+    "static/js/main.7c04f57e.chunk.js"
   ]
 }
